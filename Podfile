@@ -25,7 +25,7 @@ target 'Appcircle' do
   end
 
   target 'AppcircleUITests' do
-    # Pods for testing
+    # Pods for testing testing
   end
   
   post_install do |installer|
